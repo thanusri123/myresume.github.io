@@ -1,7 +1,7 @@
 # resume.github.io
 
 
-Click on the link for my resume - https://myresume.github.io/
+Click on the link for my resume - https://thanusri123.github.io/myresume.github.io/
 
 
 Thanu sri Deshamoni,
